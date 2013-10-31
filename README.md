@@ -1,4 +1,4 @@
-svg-polyfill
+svg-img-polyfill
 ============
 
-inline svg polyfill - replaces .svg with .png
+svg img polyfill - replaces .svg with .png
